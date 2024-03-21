@@ -1,0 +1,2 @@
+rectangle,10,5
+circle,7
